@@ -1,0 +1,10 @@
+Best threshold for F1: 0.376 | F1: 0.981
+
+              precision    recall  f1-score   support
+
+           0      0.989     0.989     0.989        90
+           1      0.981     0.981     0.981        53
+
+    accuracy                          0.986       143
+   macro avg      0.985     0.985     0.985       143
+weighted avg      0.986     0.986     0.986       143
