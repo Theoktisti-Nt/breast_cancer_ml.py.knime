@@ -1,0 +1,3 @@
+Logistic Regression — Nested CV (roc_auc)
+Nested CV roc_auc: 0.994467 ± 0.005469
+Bootstrap 95% CI: [0.993752, 0.999031]

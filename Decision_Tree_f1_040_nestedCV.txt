@@ -1,0 +1,3 @@
+Decision Tree — Nested CV (f1_040)
+Nested CV f1_040: 0.918080 ± 0.047791
+Bootstrap 95% CI: [0.938933, 0.958649]
