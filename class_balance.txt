@@ -1,0 +1,1 @@
+Benign=357, Malignant=212 (37.26% malignant)

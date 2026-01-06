@@ -1,0 +1,31 @@
+feature;importance
+perimeter_worst;0.132988895
+area_worst;0.126100104
+radius_worst;0.109828249
+concave points_worst;0.101686398
+concave points_mean;0.090558503
+radius_mean;0.05910596
+area_mean;0.0513799
+perimeter_mean;0.051188523
+concavity_mean;0.042519821
+area_se;0.033278935
+concavity_worst;0.029950251
+texture_worst;0.017292314
+symmetry_worst;0.016001167
+radius_se;0.015824531
+compactness_mean;0.015553475
+texture_mean;0.013820157
+smoothness_worst;0.013151285
+compactness_worst;0.012699847
+perimeter_se;0.01037388
+smoothness_mean;0.007472154
+fractal_dimension_se;0.006353706
+fractal_dimension_worst;0.00616626
+compactness_se;0.005563625
+concavity_se;0.005547463
+symmetry_mean;0.004843344
+texture_se;0.004604149
+smoothness_se;0.00440663
+concave points_se;0.004247687
+symmetry_se;0.004236921
+fractal_dimension_mean;0.003255866
